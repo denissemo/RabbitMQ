@@ -1,0 +1,10 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "My task RabbitMQ script",
+  "dependencies": {
+    "amqplib": "^0.3.2",
+    "ws": "^6.2.1"
+  },
+  "author": "DenisSemo"
+}
